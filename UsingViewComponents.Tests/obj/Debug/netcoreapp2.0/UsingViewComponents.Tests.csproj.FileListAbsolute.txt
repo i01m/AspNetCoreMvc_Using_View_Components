@@ -1,0 +1,17 @@
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\bin\Debug\netcoreapp2.0\UsingViewComponents.Tests.deps.json
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\bin\Debug\netcoreapp2.0\UsingViewComponents.Tests.runtimeconfig.json
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\bin\Debug\netcoreapp2.0\UsingViewComponents.Tests.runtimeconfig.dev.json
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\bin\Debug\netcoreapp2.0\UsingViewComponents.Tests.dll
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\bin\Debug\netcoreapp2.0\UsingViewComponents.dll
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\bin\Debug\netcoreapp2.0\UsingViewComponents.pdb
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\obj\Debug\netcoreapp2.0\UsingViewComponents.Tests.csprojResolveAssemblyReference.cache
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\obj\Debug\netcoreapp2.0\UsingViewComponents.Tests.csproj.CoreCompileInputs.cache
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\obj\Debug\netcoreapp2.0\UsingViewComponents.Tests.AssemblyInfoInputs.cache
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\obj\Debug\netcoreapp2.0\UsingViewComponents.Tests.AssemblyInfo.cs
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\obj\Debug\netcoreapp2.0\UsingViewComponents.Tests.csproj.CopyComplete
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\bin\Debug\netcoreapp2.0\UsingViewComponents.Tests.pdb
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\obj\Debug\netcoreapp2.0\UsingViewComponents.Tests.dll
+C:\developmentVM\aspNetCoreMvc2\UsingViewComponents\UsingViewComponents.Tests\obj\Debug\netcoreapp2.0\UsingViewComponents.Tests.pdb
